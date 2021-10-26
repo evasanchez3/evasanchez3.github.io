@@ -1899,7 +1899,7 @@ input, select, textarea {
 				transition-delay: 1.625s;
 				height: calc(40vh - 2em);
 				min-height: 20em;
-				width: 50%;
+				width: 33.33333%;
 			}
 
 				#main .thumb:nth-child(1) {
@@ -1955,7 +1955,7 @@ input, select, textarea {
 				transition-delay: 2.075s;
 				height: calc(28.57143vh - 1.33333em);
 				min-height: 18em;
-				width: 50%;
+				width: 33.33333%;
 			}
 
 				#main .thumb:nth-child(1) {
